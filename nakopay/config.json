@@ -1,0 +1,12 @@
+{
+    "version": "1.0.0",
+    "name": "Nakopay",
+    "description": "Accept cryptocurrency payments via NakoPay",
+    "authors": [
+        {
+            "name": "NakoPay",
+            "url": "https://nakopay.com"
+        }
+    ],
+    "currencies": ["USD", "EUR", "GBP", "BTC", "ETH", "LTC", "XMR"]
+}
